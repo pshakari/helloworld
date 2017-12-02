@@ -4,6 +4,12 @@
   <groupId>no.shakari</groupId>
   <artifactId>helloworld</artifactId>
   <version>1.0-SNAPSHOT</version>
+   <scm>
+        <url>https://github.com/pshakari/helloworld</url>
+        <connection>scm:git:git@github.com:pshakari/helloworld.git</connection>
+        <developerConnection>scm:git:git@github.com:pshakari/helloworld.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
   <dependencies>
     <dependency>
       <groupId>javax.servlet</groupId>
